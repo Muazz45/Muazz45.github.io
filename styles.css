@@ -316,16 +316,20 @@ main {
 }
 .ecell {
 	background-color: #C8E5C7;
-	margin-top: 0px;
+	
 }
 .stc {
 	background-color: #CCD6FF;
+	margin-top: 0px;
 }
 .deb {
 	background-color: #f0d19c;
 }
 .ssit {
 	background-color: #F4F4F4;
+}
+.ted {
+	background-color: #FFD5D1;
 }
 /* Projects */
 .projects {
