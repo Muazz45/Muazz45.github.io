@@ -13,6 +13,9 @@ body {
 main {
 	margin-top: 80px;
 }
+.about-image img{
+	border-radius: 0.5vw;
+}
 .navbar {
 	background-color: #010721;
 	opacity: 0.9;
@@ -169,6 +172,7 @@ main {
 .skillset-main {
 	margin-top: -30px;
 	width: 40%;
+	/* margin-right: -2vw; */
 }
 .skills_main_text {
 	margin-left: 80px;
@@ -183,6 +187,7 @@ main {
 	display: flex;
 	flex-direction: column;
 	padding-bottom: 5vw;
+	/* margin-right: 2vw; */
 }
 .skills_padding {
 	padding-top: 2.7777vw;
@@ -306,13 +311,23 @@ main {
 	margin: 0px;
 }
 /* Background Colours of Cards */
+
+.Avaana {
+	background-color: #B7CFB7;
+	margin-top: 0px;
+}
+.Nextleap {
+	background-color: #fff7ba;
+	margin-top: 0px;
+}
+
+
+
 .coding_ninjas {
 	background-color: #FFCDB0;
-	margin-top: 0px;
 }
 .ipqc {
 	background-color: #F6D8B6;
-	margin-top: 0px;
 }
 .ecell {
 	background-color: #C8E5C7;
